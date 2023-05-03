@@ -8,6 +8,7 @@ To use the bot have to follow this steps:
 3- Now you can ask your bot with the command !preguntar (your question) and see the answer
 
 Notes:
+!This is an example of code, the Token of the bot restarted automatically once this was uploaded on github!
 !You must have python installed on your pc!
 Note: Keep in mind that sometimes ChatGPT servers dont works very well so you could may have problems.
 
